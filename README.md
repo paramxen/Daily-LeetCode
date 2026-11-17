@@ -31,6 +31,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/param-atxep/Daily-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/param-atxep/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/param-atxep/Daily-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/param-atxep/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/param-atxep/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/param-atxep/Daily-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/param-atxep/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/param-atxep/Daily-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/param-atxep/Daily-LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Geometry
